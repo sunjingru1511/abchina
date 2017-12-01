@@ -1,0 +1,39 @@
+{
+    "data":["全国-必胜客代金券5折","全国-必胜客代金券5折"],
+    "nav":[
+        {
+            "img":"images/nav1.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav3.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav1.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav2.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav1.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav3.png",
+            "con":"掌上银行"
+        },
+         {
+            "img":"images/nav1.png",
+            "con":"掌上银行"
+        },
+        {
+            "img":"images/nav2.png",
+            "con":"掌上银行"
+        }
+
+    ]
+   
+}
